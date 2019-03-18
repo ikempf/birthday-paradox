@@ -14,7 +14,6 @@ object Main extends App {
   showParadox(75)
   showParadox(100)
 
-
 }
 
 object BirthdayParadox {
